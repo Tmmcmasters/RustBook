@@ -18,6 +18,9 @@ fn main() {
     collection_looping();
     better_collection_looping();
     for_range_looping();
+
+    // This loop will allow the program to run forever until the break keyword is called so you can run the .exe file to test it out.
+    // loop {}
 }
 
 fn return_values_from_loops() {
